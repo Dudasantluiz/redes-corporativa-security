@@ -40,7 +40,8 @@ Teste: Ping de um PC da VLAN 10 (ADM) para um PC da VLAN 20 (VENDAS).
 
 Resultado Esperado: Ping bem-sucedido.
 
-(Aqui você incluiria um Screenshot do Ping Bem-sucedido)
+Captura de tela 2025-10-08 122842.png
+
 
 Teste 2: Prova de Port Security
 Teste: Tentativa de conectar um quarto PC (não autorizado) a uma porta configurada com Port Security.
