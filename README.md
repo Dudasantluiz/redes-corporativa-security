@@ -39,8 +39,7 @@ Teste 1: Comunicação VLAN
 Teste: Ping de um PC da VLAN 10 (ADM) para um PC da VLAN 20 (VENDAS).
 
 Resultado Esperado: Ping bem-sucedido.
-
-Captura de tela 2025-10-08 122842.png
+https://github.com/Dudasantluiz/redes-corporativa-security/blob/0aa4b75352ad4de29a7020556ac10bae732afd7c/Captura%20de%20tela%202025-10-08%20122842.png
 
 
 Teste 2: Prova de Port Security
