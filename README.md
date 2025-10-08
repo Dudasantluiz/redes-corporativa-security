@@ -5,7 +5,8 @@ Este projeto simula uma infraestrutura de rede corporativa segmentada para três
 Objetivo Principal: Garantir a comunicação segura entre diferentes departamentos (VLANs) usando o método Router-on-a-Stick, ao mesmo tempo que protege as portas do switch contra vulnerabilidades comuns.
 
 Topologia e Endereçamento
-https://github.com/Dudasantluiz/redes-corporativa-security/blob/0aa4b75352ad4de29a7020556ac10bae732afd7c/Captura%20de%20tela%202025-10-08%20122842.png
+<img width="857" height="680" alt="image" src="https://github.com/user-attachments/assets/adf90f67-f27c-441a-afc6-c019d8eb042b" />
+
 ADM VLAN-10	192.168.10.0/24	
 VENDAS VLAN-20	192.168.20.0/24	
 GERENCIA VLAN-99	192.168.99.0/24	
